@@ -1,0 +1,11 @@
+{
+    "domain": "media_browser_extras",
+    "name": "Media Browser Extras",
+    "documentation": "https://github.com/raspberrypisig/",
+    "config_flow": true,
+    "dependencies": ["media_player"],
+    "codeowners": [],
+    "requirements": ["aiohttp"]
+  }
+  
+  
